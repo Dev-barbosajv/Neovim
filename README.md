@@ -5,7 +5,7 @@ Bem-vindo ao meu setup do **Neovim**! 🌟 Este arquivo contém todos os detalhe
 ---
 
 ## ✨ **Destaques do Setup**
-- 🖼️ **Tema estiloso**: Horizon e suporte ao tema One Dark.
+- 🖼️ **Tema**: Horizon e suporte ao tema One Dark.
 - 📁 **NERDTree customizado** com ícones incríveis.
 - 🛠️ **Autocompletar poderoso** com CoC.
 - 🔍 **Busca eficiente** com FZF.
